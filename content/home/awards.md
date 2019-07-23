@@ -8,4 +8,4 @@ title = "Awards"
 subtitle = ""
 +++
 
-Ph.D. Scholarship, The University of Auckland, 2018.
+- Ph.D. Scholarship, The University of Auckland, 2018.
