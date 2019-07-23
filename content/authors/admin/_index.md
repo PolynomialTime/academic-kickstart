@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto: yang.chen@auckland.ac.nz  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:yang.chen@auckland.ac.nz  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=3pShVqUAAAAJ
