@@ -1,5 +1,6 @@
 ---
 # Display name
+title: Yang Chen's Homepage
 name: Yang Chen
 
 # Username (this should match the folder name)
