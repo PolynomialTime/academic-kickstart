@@ -1,6 +1,5 @@
 ---
 # Display name
-title: Yang Chen's Homepage
 name: Yang Chen
 
 # Username (this should match the folder name)
@@ -11,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Computer Science
+role: Ph.D. in Computer Science
 
 # Organizations/Affiliations
 organizations:
