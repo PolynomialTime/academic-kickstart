@@ -1,6 +1,7 @@
 ---
 # Display name
-name: "Yang Chen"
+title: Yang Chen's Homepage
+name: Yang Chen
 
 # Username (this should match the folder name)
 authors:
