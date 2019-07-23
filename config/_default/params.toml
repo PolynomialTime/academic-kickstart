@@ -71,6 +71,7 @@ address = "Building 303 Room 303S-569, The University of Auckland, Auckland, 101
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "envelope", icon_pack = "fas", name = "yang.chen@auckland.ac.nz", link = "mailto:yang.chen@auckland.ac.nz"},
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
@@ -93,7 +94,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 0
 map_api_key = "AIzaSyClzJQlPqGEwRKnY_jqTF7PBVwGy1PhX0o"
 latitude = "-36.852434"
 longitude = "174.767997"
