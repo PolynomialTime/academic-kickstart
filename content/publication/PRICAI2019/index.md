@@ -28,7 +28,7 @@ featured: false
 
 #links:
 - name: To appear
-  url: "#publications"
+  url: "https://www.yangchen.info/"
 url_pdf: ""
 url_code: ""
 url_dataset: ""
