@@ -28,7 +28,7 @@ featured: false
 
 #links:
 - name: To appear
-  url: "#"
+  url: "#publications"
 url_pdf: ""
 url_code: ""
 url_dataset: ""
