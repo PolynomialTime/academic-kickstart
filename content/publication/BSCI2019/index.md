@@ -14,7 +14,9 @@ publishDate: "2019-07-09T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure -- BSCI 2019*. **`(Best Paper Award)`**"
+publication: "*2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure -- BSCI 2019*. 
+
+**`(Best Paper Award)`**"
 publication_short: ""
 
 abstract: Blockchain technology provides a groundbreaking computing paradigm that tackles problems in a completely decentralised manner. As the underlying infrastructure and protocol of blockchain, blockchain networks convey communications and coordination across all involving participants. In extensive application scenarios, conducting community detection over blockchain networks has potential effects on both discovering hidden information and enhancing communicating efficiency. However, the decentralised nature poses a restriction on community detection over blockchain networks. In coping with this restriction, we propose a distributed community detection method based on the Propose-Select-Adjust (PSA) framework that runs in an asynchronous way. We extend the PSA framework using the concept of structural entropy and aim to detect a community structure with low entropy. We test our entropy-based distributed community detection algorithm on both benchmark networks and bitcoin trust networks. Experimental results reveal that our algorithm successfully detects communities with low structural entropy.
