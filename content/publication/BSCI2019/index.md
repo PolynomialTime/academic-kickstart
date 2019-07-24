@@ -14,8 +14,7 @@ publishDate: "2019-07-09T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure -- BSCI 2019*. 
-
+publication: "*2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure -- BSCI 2019*.
 **`(Best Paper Award)`**"
 publication_short: ""
 
