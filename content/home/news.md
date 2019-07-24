@@ -68,4 +68,5 @@ subtitle = ""
 
 
 
-- 2019/06/20: One Paper accepted to ASONAM 2019.
+- **2019/06/20:**
+  One Paper accepted to ASONAM 2019.
