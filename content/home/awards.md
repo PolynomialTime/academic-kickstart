@@ -8,7 +8,7 @@ title = "Awards"
 subtitle = ""
 +++
 
-- **December 2018**
-  Summer scholarship funding from the Precision Driven Health research partnership.
-- **October 2018**
+- **December 2018:**
+  Summer scholarship funding from the [Precision Driven Health](https://precisiondrivenhealth.com) research partnership.
+- **October 2018:**
   Ph.D. Scholarship, The University of Auckland, 2018.
