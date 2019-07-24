@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Relationship Building: Exploitation Versus Exploration on a Social Network"
 date: 2017-10-30
-publishDate: 2019-07-24T00:27:06.687082Z
+publishDate: 2017-10-30
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["Bo Yan", "Yang Chen", "Jiamou Liu"]
 # Publication type.
