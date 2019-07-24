@@ -27,6 +27,8 @@ tags:
 featured: false
 
 links:
+- name: Best Paper Award
+  url: "http://www.cloud-conf.net/bsci/2019/"
 url_pdf: "https://www.researchgate.net/publication/334358789_Distributed_Community_Detection_over_Blockchain_Networks_Based_on_Structural_Entropy"
 url_code: ""
 url_dataset: ""
@@ -35,8 +37,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-- name: Best Paper Award
-  url: "http://example.org"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
