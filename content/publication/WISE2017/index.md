@@ -59,14 +59,5 @@ url_source: ""
 # Does this page contain LaTeX math? (true/false)
 math: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-  # Caption (optional)
-  caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: ""
 ---
 
