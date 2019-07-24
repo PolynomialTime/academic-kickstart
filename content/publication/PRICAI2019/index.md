@@ -1,11 +1,11 @@
 ---
 title: "A Reinforcement Learning Approach to Gaining Social Capital with Partial Observation"
 authors: ["He Zhao", "Hongyi Su", "Yang Chen", "Jiamou Liu", "Hong Zheng", "Bo Yan"]
-date: "2019-08-31"
+date: "2019-07-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-08-31T00:00:00Z"
+publishDate: "2019-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
