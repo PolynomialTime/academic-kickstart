@@ -22,10 +22,10 @@ featured: false
 publication: "*Web Information Systems Engineering -- WISE 2017*"
 publication_short: ""
 # Summary. An optional shortened abstract.
-summary = ""
+summary: ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi: ""
 
 # Is this a featured publication? (true/false)
 featured: false
