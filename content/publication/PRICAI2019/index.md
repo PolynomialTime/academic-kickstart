@@ -17,7 +17,7 @@ publication_types: ["1"]
 publication: "*16th Pacific Rim International Conference on Artificial Intelligence -- PRICAI 2019*"
 publication_short: ""
 
-abstract: Social capital brings individuals benefits and advantages in societies. In this paper, we formalize two types of social capital: <i>bonding capital</i> refers to links to neighbours, while <i>bridging capital</i> refers to brokerages between others. We ask the questions: How would a marginal individual gain social capital with imperfect information of the society? We formalize this issue as the <i>partially observable network building</i> problem and propose two reinforcement learning algorithms: one guarantees the convergence to optimal values in theory, while the other is efficient in practice. We conduct simulations over a real-world dataset, and experimental results coincide with our theoretical analysis.
+abstract: Social capital brings individuals benefits and advantages in societies. In this paper, we formalize two types of social capital: *bonding capital* refers to links to neighbours, while *bridging capital* refers to brokerages between others. We ask the questions: How would a marginal individual gain social capital with imperfect information of the society? We formalize this issue as the *partially observable network building* problem and propose two reinforcement learning algorithms: one guarantees the convergence to optimal values in theory, while the other is efficient in practice. We conduct simulations over a real-world dataset, and experimental results coincide with our theoretical analysis.
 
 # Summary. An optional shortened abstract.
 summary: ""
