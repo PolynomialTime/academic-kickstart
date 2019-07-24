@@ -26,9 +26,9 @@ summary: ""
 #- Source Themes
 featured: false
 
-#links:
+links:
 - name: To appear
-  url: "https://www.yangchen.info/"
+  url: "#"
 url_pdf: ""
 url_code: ""
 url_dataset: ""
