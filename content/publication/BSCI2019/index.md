@@ -1,11 +1,11 @@
 ---
 title: "Distributed Community Detection over Blockchain Networks Based on Structural Entropy"
 authors: ["Yang Chen", "Jiamou Liu"]
-date: "2019-7-9"
+date: 2019-7-9
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-7-9"
+publishDate: 2019-7-9
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
