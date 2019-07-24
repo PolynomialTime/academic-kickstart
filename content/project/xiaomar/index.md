@@ -9,6 +9,9 @@ date: "2019-07-23T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+image:
+  caption: XiaoMar
+  focal_point: Smart
 
 links:
 - name: Website
@@ -26,4 +29,4 @@ url_video: ""
 slides: ""
 ---
 
-XiaoMar is an online question-answering chatbot that is specialised in medical consultants. XiaoMar can answer complex medical questions in one turn and outperforms the previously mentioned chatbots for diagnosing based on common symptoms. This research was supported by summer scholarship funding from the [Precision Driven Health](https://precisiondrivenhealth.com) research partnership. This system was a joint work with [Qiming Bao](https://www.linkedin.com/in/bill-qiming-bao-773757166/) and [Jaron Mar](https://www.jaronmar.com). Click *Webite* tag listed below to visit the introduction page provided by Precision Driven Health for more details.
+XiaoMar is an online question-answering chatbot that is specialised in medical consultants. XiaoMar can answer complex medical questions in one turn and outperforms the previously mentioned chatbots for diagnosing based on common symptoms. This research was supported by summer scholarship funding from the [Precision Driven Health](https://precisiondrivenhealth.com) research partnership. This system was a joint work with [Qiming Bao](https://www.linkedin.com/in/bill-qiming-bao-773757166/) and [Jaron Mar](https://www.jaronmar.com). Click *Webite* tag shown on the top to visit the introduction page provided by Precision Driven Health for more details.
