@@ -71,5 +71,5 @@ subtitle = ""
   Our paper got best paper award at BSCI 2019.
 - **2019/06/20:**
   One full Paper accepted to ASONAM 2019.
-- **2019/06/20:**
+- **2019/06/03:**
   One short Paper accepted to PRICAI 2019.
