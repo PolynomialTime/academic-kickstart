@@ -17,9 +17,7 @@ publication_types: ["1"]
 publication: "*2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining -- ASONAM 2019*"
 publication_short: ""
 
-abstract: nformation brokers control information flow and hold dominating positions in a social network. 
-We study how a team of individuals with heterogeneous influencing power may gain such advantageous position through establishing new links.
-In particular,  a collaborative brokerage problem aims to find the smallest set of nodes for a team of individuals with different influencing power to cover the entire network. We phrase this problem as an extension to the classical graph domination problem and thus this problem is NP-hard. We show that a polynomial-time solution exists for directed trees. We then develop efficient algorithms over arbitrary directed networks. To evaluate the algorithms, we run experiments over networks generated using well-known random graph models and real-world datasets. Experimental results show that our algorithms produce relatively good solutions with faster speed.
+abstract: "Information brokers control information flow and hold dominating positions in a social network. We study how a team of individuals with heterogeneous influencing power may gain such advantageous position through establishing new links. In particular, a collaborative brokerage problem aims to find the smallest set of nodes for a team of individuals with different influencing power to cover the entire network. We phrase this problem as an extension to the classical graph domination problem and thus this problem is NP-hard. We show that a polynomial-time solution exists for directed trees. We then develop efficient algorithms over arbitrary directed networks. To evaluate the algorithms, we run experiments over networks generated using well-known random graph models and real-world datasets. Experimental results show that our algorithms produce relatively good solutions with faster speed."
 
 # Summary. An optional shortened abstract.
 summary: ""
