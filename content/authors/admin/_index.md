@@ -43,15 +43,22 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:yang.chen@auckland.ac.nz  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=3pShVqUAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1148-3920
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yang_Chen207
 - icon: github
   icon_pack: fab
   link: https://github.com/PolynomialTime
+- icon: envelope
+  icon_pack: fas
+  link: mailto:yang.chen@auckland.ac.nz  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
