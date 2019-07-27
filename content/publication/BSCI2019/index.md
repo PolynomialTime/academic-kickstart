@@ -30,7 +30,7 @@ featured: false
 links:
 - name: Best Paper Award
   url: "http://www.cloud-conf.net/bsci/2019/"
-url_pdf: "https://www.researchgate.net/publication/334358789_Distributed_Community_Detection_over_Blockchain_Networks_Based_on_Structural_Entropy"
+url_pdf: "https://dl.acm.org/citation.cfm?doid=3327960.3332381"
 url_code: ""
 url_dataset: ""
 url_poster: ""
