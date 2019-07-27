@@ -43,7 +43,7 @@ tags: []
 projects: []
 
 # Links (optional).
-url_pdf: "https://www.researchgate.net/publication/320184569_Dynamic_Relationship_Building_Exploitation_Versus_Exploration_on_a_Social_Network"
+url_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-68783-4_6"
 url_code: "https://github.com/PolynomialTime/WISE2017"
 url_dataset: ""
 url_project: ""
