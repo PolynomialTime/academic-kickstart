@@ -27,9 +27,9 @@ summary: ""
 featured: false
 
 links:
-- name: To appear
-  url: "#"
-url_pdf: ""
+#- name: To appear
+#  url: "#"
+url_pdf: "https://asonamdata.com/ASONAM2019_Proceedings/pdf/papers/011_0081_014.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
