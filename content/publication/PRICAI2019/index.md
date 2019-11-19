@@ -27,9 +27,6 @@ summary: ""
 featured: false
 
 links:
-- name: To appear
-  url: "#"
-url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
