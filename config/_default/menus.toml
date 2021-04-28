@@ -7,11 +7,6 @@
   name = "Home"
   url = "#about"
   weight = 10
-
-#[[main]]
-#  name = "News"
-#  url = "#news"
-#  weight = 20
   
 [[main]]
   name = "Publications"
@@ -22,11 +17,6 @@
   name = "Internship"
   url = "#intern"
   weight = 40
-  
-#[[main]]
-#  name = "Awards"
-#  url = "#awards"
-#  weight = 50
 
 [[main]]
   name = "Contact"
