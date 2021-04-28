@@ -9,4 +9,4 @@ subtitle = ""
 +++
 
 - **Sep 2020 -- Jan 2021:**
-  Research intern at the Alibaba DAMO academy. I served as a principal contributor and programmer of a research project, where I proposed a novel framework that combines deep learning and bandit techniques to enhance the efficiency and accuracy of the recommender system.
+  Research intern at the [Alibaba DAMO Academy](https://damo.alibaba.com). I served as a principal contributor and programmer of a research project, where I proposed a novel framework that combines deep learning and bandit techniques to enhance the efficiency and accuracy of the recommender system.
