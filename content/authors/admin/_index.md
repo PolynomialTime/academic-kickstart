@@ -80,4 +80,4 @@ I am currently a third-year Ph.D. student at the School of Computer Science, [Th
 I received my First Class Honours degree in computer science from The University of Auckland in 2018. 
 I received my B.S. in computer science from [Beijing Institute of Technology](http://www.bit.edu.cn/index.htm) in 2017.
 
-My research interests include (inverse) reinforcement learning, computional game theory, multi-agent systems, social networks analysis. Lately my research focus is on applying inverse reinforcement learning to games with tons of agents. 
+My research interests include (inverse) reinforcement learning, computional game theory, multi-agent systems and social networks analysis. Lately my research focus is on applying inverse reinforcement learning to games with tons of agents. 
