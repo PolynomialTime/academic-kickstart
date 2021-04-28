@@ -1,11 +1,11 @@
 ---
 title: "Social Structure Emergence: A Multi-agent Reinforcement Learning Framework for Relationship Building"
-authors: ["Yang Chen", "Jiamou Liu"]
+authors: ["Yang Chen", "Jiamou Liu", "He Zhao", "Hongyi Su"]
 date: "2020-5-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-05-09T00:00:00Z"
+publishDate: "2020-05-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
