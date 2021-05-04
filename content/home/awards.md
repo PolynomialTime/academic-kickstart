@@ -8,6 +8,9 @@ title = "Awards"
 subtitle = ""
 +++
 
+- **July 2020:**
+  Google Global PhD Fellowship Nomination (Austrilia & New Zealand)
+
 - **December 2018:**
   Summer scholarship funding from the [Precision Driven Health](https://precisiondrivenhealth.com) research partnership.
 - **October 2018:**
