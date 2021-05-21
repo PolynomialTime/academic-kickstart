@@ -73,11 +73,12 @@ email: "yang.chen@auckland.ac.nz"
 user_groups:
 - Researchers
 - Visitors
----
+--- 
 
-I am currently a first-year Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz/). My supervisor is Dr. [Jiamou Liu](https://www.cs.auckland.ac.nz/~jliu036/). 
+I am currently a third-year Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz/). My supervisors are [Dr. Jiamou Liu](https://www.liuailab.org/) and [Prof. Bakhadyr Khoussainov](https://www.cs.auckland.ac.nz/~bmk/).
 
-I received my First Class Honours degree in computer science from The University of Auckland in 2018. 
-I received my B.S. in computer science from [Beijing Institute of Technology](http://www.bit.edu.cn/index.htm) in 2017.
+I am going to work as a research fellow with the [Broad AI Lab](https://www.auckland.ac.nz/en/news/2019/06/18/ai-for-good.html) led by [Prof. Michael Witbrock](http://www.science.auckland.ac.nz/people/profile/m-witbrock). 
 
-My research interests include social networks analysis, multi-agent systems, and deep reinforcement learning. Lately my research focus is on applying deep reinforcement learning and graph neural networks to graph-structured data. 
+I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from [Beijing Institute of Technology](http://www.bit.edu.cn/index.htm) in 2017.
+
+My research interests include (inverse) reinforcement learning, computional game theory, multi-agent systems and social networks analysis. Lately my research focus is on applying reinforcement learning to automatic reasoning and proving.
