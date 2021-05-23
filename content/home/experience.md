@@ -42,3 +42,22 @@ date_format = "Jan 2006"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
+
+[[experience]]
+  title = "Research Fellow"
+  company = "The University of Auckland"
+  company_url = "https://www.auckland.ac.nz/"
+  location = "Auckland, New Zealand"
+  date_start = "Jun 2021"
+  date_end = "Present"
+  description = """I am a research fellow with the [Broad AI Lab](https://www.auckland.ac.nz/en/news/2019/06/18/ai-for-good.html) at [The University of Auckland](https://www.auckland.ac.nz/). My research foucs is on reinforcement learning based auto reasoning and proving."""
+
+
+[[experience]]
+  title = "Research Intern"
+  company = "Alibaba DAMO Academy"
+  company_url = "https://damo.alibaba.com"
+  location = "Beijing, China"
+  date_start = "Sep 2020"
+  date_end = "Jan 2021"
+  description = """I served as a principal contributor and programmer of a research project, where I proposed a novel framework that combines deep learning and bandit techniques to enhance the efficiency and accuracy of the recommender system."""
