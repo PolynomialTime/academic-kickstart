@@ -21,10 +21,10 @@ organizations:
 bio:
 
 interests:
+- Reinforcement Learning / Inverse Reinforcement Learning
+- Game Theory
 - Multi-agent Systems
 - Social Computing
-- Reinforcement Learning
-- Deep Learning
 
 education:
   courses:
