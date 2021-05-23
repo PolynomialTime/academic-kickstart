@@ -1,5 +1,5 @@
 ---
-title: "Maximum Entropy Inverse Reinforcement Learning for Mean Field Games"
+title: "Agent-Level Maximum Entropy Inverse Reinforcement Learning for Mean Field Games"
 authors: ["Yang Chen", "Jiamou Liu", "Bakhadyr Khoussainov"]
 date: "2021-5-03"
 doi: ""
@@ -17,7 +17,7 @@ publication_types: ["3"]
 publication: "*arXiv 2021*"
 publication_short: ""
 
-abstract: "Mean field games (MFG) facilitate the otherwise intractable reinforcement learning (RL) in large-scale multi-agent systems (MAS), through reducing interplays among agents to those between a representative individual agent and the mass of the population. While, RL agents are notoriously prone to unexpected behaviours due to reward mis-specification. This problem is exacerbated by an expanding scale of MAS. Inverse reinforcement learning (IRL) provides a framework to automatically acquire proper reward functions from expert demonstrations. Extending IRL to MFG, however, is challenging due to the complex notion of mean-field-type equilibria and the coupling between agent-level and population-level dynamics. To this end, we propose mean field inverse reinforcement learning (MFIRL), a novel model-free IRL framework for MFG. We derive the algorithm based on a new equilibrium concept that incorporates entropy regularization, and the maximum entropy IRL framework. Experimental results on simulated environments demonstrate that MFIRL is sample efficient and can accurately recover the ground-truth reward functions, compared to the state-of-the-art method."
+abstract: "Mean field games (MFG) facilitate the otherwise intractable reinforcement learning (RL) in large-scale multi-agent systems, through reducing interplays among agents to those between an individual agent and the average effect from the population. However, RL agents are notoriously prone to unexpected behaviours due to reward mis-specification. While inverse RL (IRL) holds promise for automatically acquiring suitable reward functions from demonstrations, its extension to MFG is challenging due to the complex notion of mean-field-type equilibria  and the coupling between agent-level and population-level dynamics. To this end, we propose a novel IRL framework for MFG, called Mean Field IRL (MFIRL), where we build upon a new equilibrium concept that incorporates the causal entropy regularisation. Crucially, MFIRL achieves for the first time an unbiased inference for agent-level (ground-truth) reward signals for MFG. Experiments show the superior performance of MFIRL on sample efficiency, reward recovery and re-optimisation under varying environment dynamics, compared to the state-of-the-art method."
 
 # Summary. An optional shortened abstract.
 summary: ""
