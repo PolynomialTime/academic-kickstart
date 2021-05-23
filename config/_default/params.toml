@@ -59,7 +59,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yang.chen@auckland.ac.nz"
-address = "Room 569, Building 303S, 38 Princes Street. The University of Auckland, Auckland, 1010, New Zealand"
+address = "Room 496, Building 303S, 38 Princes Street. The University of Auckland, Auckland CBD, 1010, New Zealand"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
