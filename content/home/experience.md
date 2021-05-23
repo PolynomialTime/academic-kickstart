@@ -37,4 +37,3 @@ date_format = "Jan 2006"
   description = """I served as a principal contributor and programmer of a research project, where I proposed a novel framework that combines deep learning and bandit techniques to enhance the efficiency and accuracy of the recommender system."""
 
 +++
-
