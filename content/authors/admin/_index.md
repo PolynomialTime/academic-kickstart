@@ -75,10 +75,9 @@ user_groups:
 - Visitors
 --- 
 
-I am currently a third-year Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz/). My supervisors are [Dr. Jiamou Liu](https://www.liuailab.org/) and [Prof. Bakhadyr Khoussainov](https://www.cs.auckland.ac.nz/~bmk/).
 
-I am also a research fellow with the [The University of Auckland](https://www.auckland.ac.nz/). 
+I am currently a research fellow with the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz/). 
 
-I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from [Beijing Institute of Technology](http://www.bit.edu.cn/index.htm) in 2017.
+I obtained my Ph.D. in computer science from [The University of Auckland](https://www.auckland.ac.nz/). My supervisors are [Dr. Jiamou Liu](https://www.liuailab.org/) and [Prof. Bakhadyr Khoussainov](https://www.cs.auckland.ac.nz/~bmk/). I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from [Beijing Institute of Technology](http://www.bit.edu.cn/index.htm) in 2017.
 
 My research interests include (inverse) reinforcement learning, computional game theory, multi-agent systems and social networks analysis. Lately my research focus is on applying reinforcement learning to automatic reasoning and proving.
